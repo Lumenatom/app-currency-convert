@@ -1,0 +1,14 @@
+.app {
+    background: #2980B9;
+    background: -webkit-linear-gradient(to top, #FFFFFF, #6DD5FA, #2980B9);
+    background: linear-gradient(to top, #FFFFFF, #6DD5FA, #2980B9);
+    max-width: 960px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    height: 640px;
+    margin-top: 25px;
+    border-radius: 8px;
+    display: flex;
+    flex-wrap: wrap;
+}
